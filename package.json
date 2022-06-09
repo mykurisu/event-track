@@ -1,0 +1,24 @@
+{
+  "name": "event-track",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.js",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@microsoft/api-extractor": "^7.19.2",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mykurisu/event-track.git"
+  },
+  "author": "mykurisu",
+  "license": "ISC"
+}
